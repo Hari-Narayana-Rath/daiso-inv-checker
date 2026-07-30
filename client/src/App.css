@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #fce4ec; /* Light Pink Background */
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #e6007e; /* Daiso Pink */
+  padding: 20px;
+  color: white;
+}
+
+.App-header h1 {
+  margin: 0;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+main {
+  padding: 20px;
+}

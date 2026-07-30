@@ -1,0 +1,89 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "jan": "4549131605854",
+      "name": "Soft Clay",
+      "description": "A soft, lightweight clay that is perfect for crafting."
+    },
+    {
+      "id": 2,
+      "jan": "4549131398992",
+      "name": "Silicone Moisturizing Mask",
+      "description": "A reusable silicone mask that prevents evaporation of face masks."
+    },
+    {
+      "id": 3,
+      "jan": "4549131411615",
+      "name": "Makeup Brush Cleaner",
+      "description": "A quick and easy way to clean your makeup brushes."
+    },
+    {
+      "id": 4,
+      "jan": "4549131586382",
+      "name": "Portable Hand Warmer",
+      "description": "A reusable hand warmer for cold days."
+    },
+    {
+      "id": 5,
+      "jan": "4549131796866",
+      "name": "Miniature Eisel",
+      "description": "A tiny eisel perfect for displaying small art or photos."
+    },
+    {
+      "id": 6,
+      "jan": "4549131973410",
+      "name": "Stackable Storage Box",
+      "description": "A clear, stackable box for organizing small items."
+    },
+    {
+      "id": 7,
+      "jan": "4549131990424",
+      "name": "Cute Animal Sticky Notes",
+      "description": "Adorable sticky notes for reminders and messages."
+    },
+    {
+      "id": 8,
+      "jan": "4549842000010",
+      "name": "Japanese Style Tea Cup",
+      "description": "A traditional ceramic tea cup for your favorite brew."
+    },
+    {
+      "id": 9,
+      "jan": "4549131985864",
+      "name": "Origami Paper Pack",
+      "description": "A variety pack of colorful origami paper."
+    },
+    {
+      "id": 10,
+      "jan": "4549131999991",
+      "name": "Cat-shaped Paper Clips",
+      "description": "Fun and functional paper clips shaped like cats."
+    }
+  ],
+  "stores": [
+    {
+      "id": 1,
+      "name": "Daiso Osaka",
+      "address": "123 Main St, Osaka",
+      "inventory": {
+        "4549131605854": 10,
+        "4549131398992": 5,
+        "4549131411615": 0
+      }
+    },
+    {
+      "id": 2,
+      "name": "Daiso Kyoto",
+      "address": "456 Oak Ave, Kyoto",
+      "inventory": {
+        "4549131605854": 0,
+        "4549131398992": 12,
+        "4549131411615": 3
+      }
+    }
+  ],
+  "reservations": [],
+  "cancellation_blocks": []
+}
